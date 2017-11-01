@@ -1,5 +1,5 @@
 {
-    "name": "kreait/firebase-tokens",
+    "name": "ianlintner/firebase-tokens-legacy",
     "description": "A library to work with Firebase tokens",
     "type": "library",
     "keywords": ["firebase", "google", "token", "authentication", "auth"],
